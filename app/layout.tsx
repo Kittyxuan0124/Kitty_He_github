@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://jack-3d-creator.kittyxuaxuan.chatgpt.site"),
+  metadataBase: new URL("https://kitty-h-portfolio.vercel.app"),
   title: "Xuan He (Kitty) — AI, Creator Ecosystems & Global Communities",
   description: "Xuan He is a connector across AI startups, creator ecosystems and global communities — working across strategy, partnerships and growth.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },

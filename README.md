@@ -1,6 +1,6 @@
 # Xuan He — Interactive Gardenia Portfolio
 
-[**Open the live interactive website →**](https://jack-3d-creator.kittyxuaxuan.chatgpt.site/)
+[**Open the live interactive website →**](https://kitty-h-portfolio.vercel.app/)
 
 ![Xuan He interactive gardenia portfolio](public/og.png)
 
