@@ -1,5 +1,9 @@
 # Xuan He — Interactive Gardenia Portfolio
 
+[**Open the live interactive website →**](https://jack-3d-creator.kittyxuaxuan.chatgpt.site/)
+
+![Xuan He interactive gardenia portfolio](public/og.png)
+
 An interactive personal portfolio for Xuan He (Kitty), built as a quiet digital
 garden. The experience combines editorial typography, a blooming gardenia,
 scroll-driven storytelling and restrained WebGL fluid transitions.
