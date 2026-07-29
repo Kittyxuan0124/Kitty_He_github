@@ -1807,7 +1807,15 @@ export default function Home() {
 
   useEffect(() => {
     let motionContext: { revert: () => void } | undefined;
-    let mediaContext: { revert: () => void } | undefined;
+    let mediaContext:
+      | {
+          add: (
+            conditions: string | Record<string, string>,
+            callback: () => void,
+          ) => unknown;
+          revert: () => void;
+        }
+      | undefined;
     let disposed = false;
 
     const composeScrollStory = async () => {
