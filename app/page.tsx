@@ -170,7 +170,7 @@ const contacts = [
   {
     label: "Threads",
     href: "https://www.threads.com/@kitty_xuanan?igshid=NTc4MTIwNjQ2YQ==",
-    metric: "80K",
+    metric: "160K",
     unit: "views · past 30 days",
     featured: true,
   },
